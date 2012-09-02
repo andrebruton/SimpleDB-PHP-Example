@@ -1,0 +1,29 @@
+How to Install
+==============
+
+1. Install Amazon AWS PHP SDK
+
+   You need the following folders and files
+
+   composer.json
+   config.inc.php
+   sdk.class.php
+   /authentication
+   /lib
+   /services
+   /utilities
+
+2. Copy the code into the folder
+3. Create a mySQL Database 
+4. Modify the settings.inc.php file in the config folder
+5. Put your Amazon AWS credentials in the config.inc.php file
+
+
+Help
+====
+
+For help, you can contact me Andre F Bruton on andre@key.co.za 
+
+This software has been tested on Amamzon AWS PHP SDK 1.5.13
+
+
